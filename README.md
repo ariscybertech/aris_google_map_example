@@ -1,4 +1,4 @@
-## Flutter Google Map Example - Day 41
+## Flutter Google Map Example
 
 ```dart
 class Afgprogrammer extends Flutter100DaysOfCode {
@@ -11,9 +11,6 @@ class Afgprogrammer extends Flutter100DaysOfCode {
   }
 }
 ```
-
-## Previous Designs
-[Checkout my Youtube channel](https://youtube.com/afgprogrammer)
 
 
 ## Development Setup
@@ -34,10 +31,3 @@ flutter run
 
 ### Circles Page
 <img src="assets/screenshots/circles-page.png" />
-
-## Links
-
-* [Website](https://afgprogrammer.com)
-* [Youtube channel](https://youtube.com/afgprogrammer)
-* [Twitter](https://twitter.com/afgprogrammer)
-* [Instagram](https://instagram.com/afgprogrammer)
